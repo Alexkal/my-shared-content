@@ -1,0 +1,163 @@
+{
+  "name": "my-shared-content",
+  "title": "My Shared Content",
+  "description": "A collection of my content.",
+  "version": "1.0.0",
+  "author": "Me",
+  "minimumCoreVersion": "10.290",
+  "compatibleCoreVersion": "10.291",
+  "packs": [
+    {
+      "name": "homebrew-shared-class-and-subclass-features",
+      "label": "Homebrew Shared Class and Subclass Features",
+      "path": "./packs/homebrew-shared-class-and-subclass-features.db",
+      "entity": "Item"
+    },
+    {
+      "name": "homebrew-shared-classes-and-subclasses",
+      "label": "Homebrew Shared Classes and Subclasses",
+      "path": "./packs/homebrew-shared-classes-and-subclasses.db",
+      "entity": "Item"
+    },
+    {
+      "name": "homebrew-shared-conditions-and-diseases",
+      "label": "Homebrew Shared Conditions and diseases",
+      "path": "./packs/homebrew-shared-conditions-and-diseases.db",
+      "entity": "Item"
+    },
+    {
+      "name": "shared-creatures",
+      "label": "Shared Creatures",
+      "path": "./packs/creatures.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "homebrew-shared-creatures",
+      "label": "Homebrew Shared Creatures",
+      "path": "./packs/homebrew-shared-creatures.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "shared-cults",
+      "label": "Shared Cults",
+      "path": "./packs/shared-cults.db",
+      "entity": "Item"
+    },
+    {
+      "name": "shared-decks",
+      "label": "Shared Decks",
+      "path": "./packs/shared-decks.db",
+      "entity": "Cards"
+    },
+    {
+      "name": "shared-deities",
+      "label": "Shared Deities",
+      "path": "./packs/shared-deities.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "homebrew-shared-feats",
+      "label": "Homebrew Shared Feats",
+      "path": "./packs/homebrew-shared-feats.db",
+      "entity": "Item"
+    },
+    {
+      "name": "shared-items",
+      "label": "Shared Items",
+      "path": "./packs/items.db",
+      "entity": "Item"
+    },
+    {
+      "name": "homebrew-shared-items",
+      "label": "Homebrew Shared Items",
+      "path": "./packs/homebrew-shared-items.db",
+      "entity": "Item"
+    },
+    {
+      "name": "shared-scenes",
+      "label": "Shared Scenes",
+      "path": "./packs/scenes.db",
+      "entity": "Scene"
+    },
+    {
+      "name": "shared-journal-entries",
+      "label": "Shared Journal Entries",
+      "path": "./packs/journal-entries.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "homebrew-shared-journal-entries",
+      "label": "Homebrew Shared Journal Entries",
+      "path": "./packs/homebrew-shared-journal-entries.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "homebrew-shared-optional-and-variant-rules",
+      "label": "Homebrew Shared Optional and Variant Rules",
+      "path": "./packs/homebrew-shared-optional-and-variant-rules.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "homebrew-shared-other-options-and-features",
+      "label": "Homebrew Shared Other Options and Features",
+      "path": "./packs/homebrew-shared-other-options-and-features.db",
+      "entity": "Item"
+    },
+    {
+      "name": "homebrew-shared-races-and-subraces",
+      "label": "Homebrew Shared Races and Subraces",
+      "path": "./packs/homebrew-shared-races-and-subraces.db",
+      "entity": "Item"
+    },
+    {
+      "name": "homebrew-shared-spells",
+      "label": "Homebrew Shared Spells",
+      "path": "./packs/homebrew-shared-spells.db",
+      "entity": "Item"
+    },
+    {
+      "name": "homebrew-shared-roll-tables",
+      "label": "Homebrew Shared Roll Tables",
+      "path": "./packs/homebrew-shared-roll-tables.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "homebrew-shared-vehicles",
+      "label": "Homebrew Shared Vehicles",
+      "path": "./packs/homebrew-shared-vehicles.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "homebrew-shared-vehicle-upgrades",
+      "label": "Homebrew Shared Vehicle Upgrades",
+      "path": "./packs/homebrew-shared-vehicle-upgrades.db",
+      "entity": "Item"
+    },
+    {
+      "name": "shared-macros",
+      "label": "Shared Macros",
+      "path": "./packs/macros.db",
+      "entity": "Macro"
+    },
+    {
+      "name": "homebrew-shared-roll-tables",
+      "label": "Homebrew Shared Roll Tables",
+      "path": "./packs/homebrew-shared-roll-tables.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "shared-roll-tables",
+      "label": "Shared Roll Tables",
+      "path": "./packs/shared-roll-tables.db",
+      "entity": "Item"
+    },
+    {
+      "name": "shared-playlists",
+      "label": "Shared Playlists",
+      "path": "./packs/playlists.db",
+      "entity": "Playlist"
+    }
+  ],
+  "manifest": "",
+  "download": ""
+}
