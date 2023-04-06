@@ -161,6 +161,6 @@
       "entity": "Playlist"
     }
   ],
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/Alexkal/my-shared-content/main/module.json",
   "download": ""
 }
